@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/haruyasu/crwn-clothing/static/css/main.b42e8e35.chunk.css",
+    "main.js": "/haruyasu/crwn-clothing/static/js/main.65c711f8.chunk.js",
+    "main.js.map": "/haruyasu/crwn-clothing/static/js/main.65c711f8.chunk.js.map",
+    "runtime~main.js": "/haruyasu/crwn-clothing/static/js/runtime~main.70a12546.js",
+    "runtime~main.js.map": "/haruyasu/crwn-clothing/static/js/runtime~main.70a12546.js.map",
+    "static/js/2.5c2a0d97.chunk.js": "/haruyasu/crwn-clothing/static/js/2.5c2a0d97.chunk.js",
+    "static/js/2.5c2a0d97.chunk.js.map": "/haruyasu/crwn-clothing/static/js/2.5c2a0d97.chunk.js.map",
+    "index.html": "/haruyasu/crwn-clothing/index.html",
+    "precache-manifest.c241c05aaa82bb95cb6c49d1be73756f.js": "/haruyasu/crwn-clothing/precache-manifest.c241c05aaa82bb95cb6c49d1be73756f.js",
+    "service-worker.js": "/haruyasu/crwn-clothing/service-worker.js",
+    "static/css/main.b42e8e35.chunk.css.map": "/haruyasu/crwn-clothing/static/css/main.b42e8e35.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/haruyasu/crwn-clothing/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/haruyasu/crwn-clothing/static/media/shopping-bag.30f07071.svg"
+  }
+}
