@@ -1,4 +1,4 @@
-# Cloth E-commerce
+# Clothing E-commerce
 
 ## Build a massive E-commerce app 
 - React
