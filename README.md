@@ -1,3 +1,10 @@
-# crwn-clothing
+# Cloth E-commerce
 
-## React Project
+## Build a massive E-commerce app 
+- React
+- Redux
+- Hooks
+- GraphQL
+- ContextAPI
+- Stripe
+- Firebase
